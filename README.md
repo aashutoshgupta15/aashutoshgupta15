@@ -6,25 +6,6 @@
 
 <p align="left">
 🎨 Designing intuitive stories in pixels & code<br>
-🧠 Solving problems one bug, brushstroke, and algorithm at a time<br>
-💻 Code whisperer by day, UI alchemist by night<br>
-📐 Maths fuels my logic, art drives my soul<br>
-🔌 Obsessed with core ECE, logic design & dreaming in flip-flops and Verilog<br>
-🧠 I don’t just design UIs—I think in gates, signals, and silicon too<br>
-🧊 Rubik’s cube? Solved. Emotions? Also trying.<br>
-🎭 Can be found dancing, sketching, painting or writing at 2am<br>
-🎹 Weekend hobby: Composing chaos on piano & guitar<br>
-🌊 Swimming through ideas, not just pools<br>
-🍳 Love cooking up new flavors & baking sweet stories in the kitchen<br>
-🛼 Skating through life—on linears, rollers, and pure adrenaline<br>
-📖 Constantly reading—especially philosophy that bends the mind<br>
-🧠 Most alive in deep talks with thinking minds and curious souls<br>
-✈️ Traveling to feel small under big skies and capturing the world into stories<br>
-📷 Love filming, editing & freezing moments into forever frames<br>
-🎞️ Drawn to dark academia—moody cafés, overcast skies, leather journals & deep thoughts<br>
-🛠 Built full-stack apps that turn real-world problems into elegant digital experiences<br>
-🎯 Goal: Build things that make people feel and think—whether it’s a UI, a chip, or a story<br>
-✨ Currently hiring ideas. Payment: curiosity and creativity.
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
